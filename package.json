@@ -18,11 +18,13 @@
     "type": "git",
     "url": "git+https://github.com/Hiratake/learn-typescript.git"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "devDependencies": {
     "ts-node": "^10.2.1",
+    "ts-node-dev": "^1.1.8",
     "typescript": "^4.4.3"
+  },
+  "scripts": {
+    "dev": "ts-node-dev --respawn",
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
