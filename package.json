@@ -1,0 +1,24 @@
+{
+  "name": "@hiratake/learn-typescript",
+  "version": "1.0.0",
+  "description": "TypeScript learning repository.",
+  "keywords": [
+    "typescript"
+  ],
+  "homepage": "https://github.com/Hiratake/learn-typescript",
+  "bugs": "https://github.com/Hiratake/learn-typescript/issues",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "Hiratake",
+    "url": "https://hiratake.xyz",
+    "email": "hiratake@hiratake.xyz"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hiratake/learn-typescript.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
