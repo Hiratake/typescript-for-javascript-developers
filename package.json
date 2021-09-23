@@ -1,12 +1,12 @@
 {
-  "name": "@hiratake/learn-typescript",
+  "name": "@hiratake/typescript-for-javascript-developers",
   "version": "1.0.0",
   "description": "TypeScript learning repository.",
   "keywords": [
     "typescript"
   ],
-  "homepage": "https://github.com/Hiratake/learn-typescript",
-  "bugs": "https://github.com/Hiratake/learn-typescript/issues",
+  "homepage": "https://github.com/Hiratake/typescript-for-javascript-developers",
+  "bugs": "https://github.com/Hiratake/typescript-for-javascript-developers/issues",
   "license": "UNLICENSED",
   "author": {
     "name": "Hiratake",
@@ -16,7 +16,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hiratake/learn-typescript.git"
+    "url": "git+https://github.com/Hiratake/typescript-for-javascript-developers.git"
   },
   "dependencies": {
     "axios": "^0.21.4"

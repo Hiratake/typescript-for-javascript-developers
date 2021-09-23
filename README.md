@@ -1,4 +1,4 @@
-# Learn TypeScript
+# TypeScript for JavaScript Developers
 
 [TypeScript](https://www.typescriptlang.org/) の学習用リポジトリ
 
