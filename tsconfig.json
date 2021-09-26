@@ -3,6 +3,7 @@
     "target": "es6",
     "module": "commonjs",
     "strict": true,
+    // "strictNullChecks": false,
     "lib": ["es6", "dom"]
   },
   "exclude": ["node_modules"]
